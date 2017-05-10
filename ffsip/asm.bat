@@ -1,0 +1,1 @@
+java -cp .;asm-util-5.2.jar org.objectweb.asm.util.ASMifier net.oseye.demoasm.HelloWorld
